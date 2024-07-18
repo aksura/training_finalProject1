@@ -10,7 +10,7 @@
 	color: #000;
 	display: block;
 	letter-spacing: 1px;
-	font-size: 1em;
+	font-size: 1.2em;
 	font-family: 'Karla', sans-serif;
 	text-transform: uppercase;
 	margin: 13px 10px;
@@ -35,3 +35,9 @@
     width: 100%;
     padding : 250px 0;
 }
+
+.carousel-item {
+	background-color: gainsboro; /* Change this to your desired background color */
+	color: #fff; /* Change this to your desired text color */
+}
+

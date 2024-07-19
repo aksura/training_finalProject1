@@ -13,7 +13,7 @@
 	font-size: 1.0em;
 	font-family: 'Karla', sans-serif;
 	text-transform: uppercase;
-	margin: 13px 10px;
+	margin: 12px 10px;
 }
 .cssmenu li.active> a, .cssmenu li> a:hover {
 	color:#000;

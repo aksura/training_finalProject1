@@ -9,7 +9,7 @@
 .cssmenu ul li a {
 	color: #000;
 	display: block;
-	letter-spacing: 1px;
+	letter-spacing: 0.7px;
 	font-size: 1.0em;
 	font-family: 'Karla', sans-serif;
 	text-transform: uppercase;
@@ -25,15 +25,13 @@
 }
 
 .banner {
-    /* background-image: url('../images/banner2.jpg'); */
-    background-color: blue;
+    background-image: url('../images/banner_2.png');
     color: white;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: auto;
     width: 100%;
-    padding : 250px 0;
+    padding : 50px 0;
 }
 
 .carousel-item {
